@@ -31,7 +31,7 @@ This project includes:
 - PostgreSQL Database  
 - Redis Caching  
 - RabbitMQ  
-- Game Client w/ Unity-native tools to dump map data  
+- Game Client w/ Unity-native tools to dump map data and other things
 - ASP.NET Core Web API
 - Website
 - WPF Tools to edit various game data  
