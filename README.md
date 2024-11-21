@@ -8,6 +8,7 @@ This project includes:
 - PostgreSQL Database
 - Redis Caching
 - RabbitMQ
+- Game Client w/ unity-native tools to dump things like map data.
 - ASP.NET Core Web Api
 - WPF Tools to edit various data that the game has
 
@@ -121,6 +122,18 @@ A simple and fun dog breed quiz game that challenges your ability to recognize o
 ![118374390_1699218326883434_864894154088761500_n](https://github.com/user-attachments/assets/e5ba5e93-1bce-48aa-9539-58383e1b4a94)
 ![unknown](https://github.com/user-attachments/assets/f025d052-f802-4dd7-9af1-245345bdcfef)
 
+# SpeedPro App
+Control your electric scooter vehicle via an app without any user tracking. This is basically an app that connects via BLE to an electric scooter and sends controls to the scoot.
+- Repository can be found here: https://github.com/Buryyy/SpeedPro
+![image](https://github.com/user-attachments/assets/bdb23a06-308d-4023-979c-1eaa39599a8c) 
 
+# NClicker 
+NClicker is an auto click tool for Windows. You can easily setup a interval for mouse clicks, randomization of the clicks is also supported and presets of settings.
+Repository can be found here: https://github.com/Buryyy/NClicker?tab=readme-ov-file
+![image](https://github.com/user-attachments/assets/4b0927e4-a6a0-4f37-bb9c-04d0dfc2d2fe)
 
+# IniSharp Lite
+- IniSharpLite is a lightweight .NET library for reading and writing INI configuration files. It provides both file-based persistence and in-memory configuration, allowing flexibility in different application scenarios.
+Repository can be found here: https://github.com/Buryyy/IniSharpLite
 
+ 
