@@ -32,7 +32,8 @@ This project includes:
 - Redis Caching  
 - RabbitMQ  
 - Game Client w/ Unity-native tools to dump map data  
-- ASP.NET Core Web API  
+- ASP.NET Core Web API
+- Website
 - WPF Tools to edit various game data  
 
 ### Project Overview  
@@ -63,7 +64,6 @@ Acts as the hub for cross-world communication and coordination. Responsibilities
 - [Shops](https://www.youtube.com/watch?v=x-LcYwBIIDY)  
 - [Account & Character Creation](https://www.youtube.com/watch?v=RIPgdxY_E2A)  
 
-#### Images  
 ![image](https://github.com/user-attachments/assets/6a82bac9-2d2e-4245-a914-1c0eca357178)  
 
 ---
