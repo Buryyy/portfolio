@@ -3,18 +3,23 @@ A collection of personal projects developed over the years.
 
 ## Table of Contents  
 1. [Alvis Online - Action MMORPG Game](#alvis-online---action-mmorpg-game)  
-   - [Project Overview](#project-overview)  
-   - [Game Server](#game-server)  
-   - [Central Server](#central-server)  
-   - [Media](#media)  
+   - A scalable multiplayer game server infrastructure with features like user authentication, real-time updates, and cross-server communication.  
 2. [Action Combat MMORPG Project](#action-combat-mmorpg-project)  
+   - A successor to Alvis Online with overhauled infrastructure and enhanced gameplay mechanics.  
 3. [Website for Selling Music Packs](#website-for-selling-music-packs)  
+   - A visually engaging website for selling music packs built with Next.js and TailwindCSS.  
 4. [Service App](#service-app)  
+   - A modern peer-to-peer (P2P) marketplace for service-based transactions like repair and maintenance.  
 5. [Foxpaw - 2D Action Platformer](#foxpaw---2d-action-platformer)  
+   - An early game featuring monster battles, loot collection, and ability unlocking.  
 6. [Guess The Breed](#guess-the-breed)  
+   - A fun dog breed quiz game with over 300 breeds to identify.  
 7. [SpeedPro App](#speedpro-app)  
+   - A BLE-enabled app to control electric scooters without user tracking.  
 8. [NClicker](#nclicker)  
+   - An auto-click tool for Windows with advanced interval and randomization settings.  
 9. [IniSharp Lite](#inisharp-lite)  
+   - A lightweight .NET library for handling INI configuration files.  
 
 ---
 
@@ -63,7 +68,7 @@ Acts as the hub for cross-world communication and coordination. Responsibilities
 
 ---
 
-## Action Combat MMORPG Project 
+## Action Combat MMORPG Project  
 
 A successor to **Alvis Online**, featuring overhauled server infrastructure and improved gameplay mechanics. Focused on scalability and efficiency using REST APIs for login and session management.  
 - [Combat Example](https://www.youtube.com/watch?v=dIfHHXJaoVQ)  
