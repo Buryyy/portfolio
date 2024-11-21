@@ -1,4 +1,4 @@
-# Portfolio - of some personal projects over the years.
+# Portfolio - of some personal projects over the years. 
 
 # Alvis Online - Action MMORPG Game
 
@@ -56,6 +56,9 @@ This infrastructure provides a robust foundation for creating immersive multipla
 ![image](https://github.com/user-attachments/assets/248adc6d-0694-4ad8-b108-12b2cb69a83c)
 ![image](https://github.com/user-attachments/assets/7f8216ca-7a25-417c-859b-b0535abc1e95)
 ![image](https://github.com/user-attachments/assets/6c80ca4b-efd5-4d2d-884a-b4580289da07)
+![image](https://github.com/user-attachments/assets/cebb1260-61f9-48ea-8b71-99af62b2e4d0)
+![image](https://github.com/user-attachments/assets/a9e53b53-b0c4-4e51-97ab-c20d4f5c06aa)
+![image](https://github.com/user-attachments/assets/7de07d0a-ff5c-4510-8248-2334d09001ae)
 
 Cache distribution fully automated, the game would load new cache file upon next start.
  <video src='https://github.com/user-attachments/assets/fbc2db36-b3a5-4122-8cb3-5b9c1a991ddb' width=180/>
@@ -78,6 +81,7 @@ Server Data Tool for editing items,npcs, and various data of the game. Includes 
 ![image](https://github.com/user-attachments/assets/503e6d14-b798-4112-8ace-99f5dc2b1ec4)
 ![image](https://github.com/user-attachments/assets/9a35cd0c-af45-4adb-bbb4-db38721a1122)
 ![image](https://github.com/user-attachments/assets/f3305ede-56ba-4593-82d5-42eb294d6bf8)
+![image](https://github.com/user-attachments/assets/d7b089ca-0c89-4f63-b30c-5aca673adf6a)
 
 
 # Unannounced Project - Currently working on this.
@@ -107,16 +111,16 @@ This is one of my earlier games, created around 2011. Players embark on an adven
 ![bbf2f09e5610b0bd7cc9b54d959e985d](https://github.com/user-attachments/assets/dfd2e672-7fa7-43af-9fbc-4b1ee09df6cb)
 ![ac49edecc03ee6966c9ddf5b32c5c5d1](https://github.com/user-attachments/assets/17785384-8064-4923-bddd-9c099f1b96b4)
 ![bc8862537582ef028f0f4643ba5e4181](https://github.com/user-attachments/assets/06f93116-678f-4400-8686-d6a968eb78e7)
-
-
 <video  src='https://github.com/user-attachments/assets/489cdb19-8018-4023-9357-cd167daf2339' width=180/>  
 <video  src='https://github.com/user-attachments/assets/88f1d769-08a3-46ad-b12f-e3241bc3203f' width=180/>  
 
-
 # Guess The Breed
 A simple and fun dog breed quiz game that challenges your ability to recognize over 300 different dog breeds.
+
 ![118110864_778558999584280_2704248700642941756_n](https://github.com/user-attachments/assets/50d64557-acb8-450d-856a-aaf67777c4d9)
 ![118374390_1699218326883434_864894154088761500_n](https://github.com/user-attachments/assets/e5ba5e93-1bce-48aa-9539-58383e1b4a94)
 ![unknown](https://github.com/user-attachments/assets/f025d052-f802-4dd7-9af1-245345bdcfef)
+
+
 
 
