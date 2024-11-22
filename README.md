@@ -75,6 +75,7 @@ A successor to **Alvis Online**, featuring overhauled server infrastructure and 
 - [Combat Example](https://www.youtube.com/watch?v=dIfHHXJaoVQ)  
 
 ![image](https://github.com/user-attachments/assets/6f67431b-46c6-4833-b6ea-f8d16902717b)  
+![image](https://github.com/user-attachments/assets/d38b71bb-fff8-4a91-aa19-9d9b56d2d364)
 
 ---
 
