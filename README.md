@@ -65,6 +65,7 @@ Acts as the hub for cross-world communication and coordination. Responsibilities
 - [Account & Character Creation](https://www.youtube.com/watch?v=RIPgdxY_E2A)  
 
 ![image](https://github.com/user-attachments/assets/6a82bac9-2d2e-4245-a914-1c0eca357178)  
+![image](https://github.com/user-attachments/assets/6768dca7-2bef-4f57-8814-50c2184d625f)
 
 ---
 
