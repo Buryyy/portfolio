@@ -47,7 +47,7 @@ The core component, responsible for handling individual game worlds. Features in
 - Chat systems and private messaging.  
 - Handshake protocols for secure connections.  
 - User authentication.  
-- Real-time player movement updates.  
+- Real-time player appearance, movement updating.  
 - Inventory management, item bonuses, and descriptions.  
 
 ### Central Server  
