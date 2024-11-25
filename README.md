@@ -34,6 +34,7 @@ This project includes:
 - Game Client w/ Unity-native tools to dump map data and other things
 - ASP.NET Core Web API
 - Website
+- Launcher / Updater
 - WPF Tools to edit various game data  
 
 ### Project Overview  
