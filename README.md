@@ -1,5 +1,5 @@
 # Portfolio  
-A collection of personal projects developed over the years.
+A collection of some personal projects developed over the years.
 
 ## Table of Contents  
 1. [Alvis Online - Action MMORPG Game](#alvis-online---action-mmorpg-game)  
